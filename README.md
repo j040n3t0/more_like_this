@@ -3,6 +3,7 @@ Conteúdo de Elasticsearch sobre a query more_like_this
 
 
 REFERÊNCIA
+
 Link da documentação oficial: https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-mlt-query.html
 
 Link do Github: https://github.com/j040n3t0/more_like_this/blob/main/lista_produtos.json
